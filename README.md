@@ -23,7 +23,15 @@ Comparing the emission rate across years is very vital in this analysis. In that
 
 **Understanding Relationship between Revenue and Emission across Years** 
 
-Revenue and sum of emission appears to negatively correlated. This means that as Revenue increases, Emission decreases. 
+Revenue and sum of emission appears to be negatively correlated. This means that as Revenue increases, Emission decreases. 
 ![Apple project 4_page-0003](https://github.com/victorsomadina/Apple-CO2-Emission-Project/assets/103338741/59aea35c-ba09-4fa9-b704-2fcc783270e4)
 
+**Understanding carbon footprint by product and the activities that have have high emissions**
+
+Understanding these activities gives insight to the areas to be considered the most. The visuals below shows that the manufacturing sector generated the highest emission, about **75%** compared to the total emissions. This sector should be looked into and appropriate measures should be taken to reduce the emission. 
+![Apple project 4_page-0004](https://github.com/victorsomadina/Apple-CO2-Emission-Project/assets/103338741/86985a28-a33c-4cae-bca7-2c9719d5cfc2)
+![Apple project 4_page-0005](https://github.com/victorsomadina/Apple-CO2-Emission-Project/assets/103338741/4ae14d9d-130c-47be-9e20-9bedd85b49ca)
+
+# Dashboard
+ 
 
