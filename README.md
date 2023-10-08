@@ -40,6 +40,8 @@ The dashboard below shows important insights and KPI's to visualise Apple's prog
 **Click on the link to interact with the dashboard [here](https://app.powerbi.com/links/DOKctBkpHG?ctid=39c68ff1-a810-4cda-ab2f-5218156b5f4d&pbi_source=linkShare)**
 
 # Recommendation
-
+1. The activities in reducing CO2 emission has so far been yielding positive result and should be continued to reach a needed target by 2030. Meanwhile, the goal by 2030 just reduces emission by 75%. Apple planned on using carbon offset to eliminate the remaing 25% which is about **9.60 million** emission.
+2. The manufacturing sector which generates the highest emission should be looked into
+3.  Whatever activity used to reduce emission by 23% in 2016 should be employed in the future to speed up the progress in eradicating CO2 emissions. Using this approach might get the emission to the 75% target before 2030. 
 
 
