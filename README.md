@@ -33,5 +33,10 @@ Understanding these activities gives insight to the areas to be considered the m
 ![Apple project 4_page-0005](https://github.com/victorsomadina/Apple-CO2-Emission-Project/assets/103338741/4ae14d9d-130c-47be-9e20-9bedd85b49ca)
 
 # Dashboard
- 
+
+The dashboard below shows important insights and KPI's to visualise Apple's progress in eradicating CO2 emissions.
+![Apple project 4_page-0006](https://github.com/victorsomadina/Apple-CO2-Emission-Project/assets/103338741/59013b56-8843-452a-a8ed-b90f3a314b8b)
+
+**Click on the link to interact with the dashboard [here]**
+
 
