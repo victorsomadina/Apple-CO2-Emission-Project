@@ -11,7 +11,8 @@ For the Maven Environmental Challenge, you'll be working as an independent journ
 **The link to the project and the dataset is provided [here](https://mavenanalytics.io/challenges/maven-environmental-challenge/27)** 
 
 # Exploratory Data Analysis
-**Understanding current emission as of 2022, and comparing with the target emission to understand the progress so far**
+**#Understanding current emission as of 2022, and comparing with the target emission to understand the progress so far**
+
 Applying Dax in Power BI, the percentage emission was calculated and the result is seen at **47.17%** from the baseline emission **38.38 million emission**. Meanwhile, the target is to reduce the baseline emission by **75%** thereby getting the emission value to about **28.79 million** by 2030. Current rate shows that the work to eradicate is progressing positively, and at this rate, the target will be reached by year 2030.
 ![Apple project 4_page-0001](https://github.com/victorsomadina/Apple-CO2-Emission-Project/assets/103338741/f3cd0bda-b9eb-49ca-8cfe-f46beb59a9ec)
 
